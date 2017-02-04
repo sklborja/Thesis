@@ -1,0 +1,20 @@
+How to use 'Select Feasible Solar Farm Sites' Toolbox:
+1. Install ArcGIS 10.3 and python (pythonwin).
+2. Extract the contents of Select_Solar_Farm_Installation_Sites_v1.zip file  
+
+Run through ArcCatalog:
+3. Open ArcCatalog and navigate to the location of the 'Select Feasible Solar Farm Sites' Toolbox. You will see two Two Toolbox Tools-SelectFeasibleSiteInMap ModelBuilder tool and
+'Select Feasible Silar Farm Sites' Script Tool. Double click the prefered Toolbox Tool and supply the required inputs.
+4. In the Environment settings, set the current and scratch workspaces to 'C:\Users\<user>\Documents\ArcGIS\scratch.gdb' then click OK.
+
+Run through ArcMap
+3. Open ArcMap and select a map.
+4. Click the 'Catalog' Sidebar and and navigate to the location of the 'Select Feasible Solar Farm Sites' Toolbox. You will see two Two Toolbox Tools-SelectFeasibleSiteInMap ModelBuilder tool and
+'Select Feasible Silar Farm Sites' Script Tool. Double click the prefered Toolbox Tool and supply the required inputs.
+5. 4. In the Environment settings, set the current and scratch workspaces to 'C:\Users\<user>\Documents\ArcGIS\scratch.gdb' then click OK.
+
+Add to ModelBuilder
+3. Open the ModelBuilder window and navigate to the location of the 'Select Feasible Solar Farm Sites' Toolbox.You will see two Two Toolbox Tools-SelectFeasibleSiteInMap ModelBuilder tool and
+'Select Feasible Silar Farm Sites' Script Tool. Drag and drop the prefered Toolbox Tool to the Model Builder Window.
+4. Double click the Tool and supply the required inputs.
+5. Run ModelBuilder. 
